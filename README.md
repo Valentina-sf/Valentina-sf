@@ -58,16 +58,7 @@ Estudante de Ciência da Computação no **IFBA — Campus Paulo Afonso**, com a
 
 <br/>
 
-## Estatísticas
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Valentina-sf&show_icons=true&hide_border=true&hide_title=true&bg_color=1a1a2e&title_color=5EEAD4&icon_color=5EEAD4&text_color=e5e5e5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina-sf&layout=compact&hide_border=true&hide_title=true&bg_color=1a1a2e&title_color=5EEAD4&text_color=e5e5e5" width="48%"/>
-
 </div>
-
-> Se as imagens acima não carregarem: é o serviço público do Vercel que hospeda esse gerador sobrecarregando (comum, não é erro do seu README). Elas costumam voltar ao normal sozinhas; se quiser algo 100% garantido, dá pra hospedar sua própria instância — te explico como se topar.
 
 <br/>
 
